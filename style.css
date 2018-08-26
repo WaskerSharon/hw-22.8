@@ -1,0 +1,46 @@
+div{
+    font-size: 100px;
+    border: 10px solid black;
+    padding: 20px;
+    margin: 100px;
+    margin-bottom: 200px;
+}
+section{
+    margin: 80px;
+    box-sizing: border-box;
+    border-top: 100px solid #db0000;
+    border-right: 70px solid #fd5c5c;
+    border-bottom: 200px solid #3300db;
+    border-left: 500px solid #c7ff2e;
+}
+span{
+  font-size: 3.2em;
+}
+
+h2{
+    color: #ff3a3a;
+}
+
+.anotherList > li > a {
+    color: #ff3a3a;
+}
+
+strong:nth-of-type(2) {
+    color: #ff3a3a; 
+}
+
+#location{
+    color: #ff3a3a;
+}
+
+td:nth-of-type(2){
+    color: #ff3a3a;
+}
+
+input + label:nth-of-type(2){
+    color: #ff3a3a;
+}
+
+span + a{
+    color: #ff3a3a;
+}
